@@ -1,0 +1,3 @@
+# Runtime dependency; audit tested with requests 2.32.4 on Python 3.10.11.
+# This is a supported range, not a complete reproducible lock file.
+requests>=2.32.4,<3
